@@ -48,9 +48,9 @@ body {
 
 #sobre .quote {
     position: absolute;
-    right: 38px;
+    right: 30px;
     top: 40px;
-    width: 4rem;
+    width: 50px;
 }
 
 #habilidades {
